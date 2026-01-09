@@ -1,0 +1,5 @@
+{
+  "name": "QueryHub",
+  "description": "A collective memory for data queries. Ingest, discover, collaborate, and track analytic debt with an AI-enhanced, notion-like interface.",
+  "requestFramePermissions": []
+}
